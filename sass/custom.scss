@@ -1,0 +1,28 @@
+//Variables
+$brand: #00685f;
+
+img {
+  vertical-align: middle;
+}
+
+@media screen and (min-width: 48em) {
+  .bg-white-ns {
+    background-color: white;
+  }
+}
+
+.sans-serif {
+  font-family: "Droid Sans", -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica,helvetica neue,Ubuntu,segoe ui,arial,sans-serif;
+}
+
+.serif {
+  font-family: "Droid Serif", georgia,times,serif;
+}
+
+.code, code {
+  font-family: "Droid Sans Mono", Consolas,monaco,monospace;
+}
+
+.bg-light-blue {
+	background-color: #C3DDF4;
+}
