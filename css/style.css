@@ -3443,12 +3443,12 @@ td, th {
   color: #265C83; }
 
 .a:hover {
-  color: #7FDBFF; }
+  color: #007BE6; }
 
 .a:active {
   -webkit-transition: color .3s;
   transition: color .3s;
-  color: #007BE6; }
+  color: #053A60; }
 
 img {
   vertical-align: middle; }
@@ -3468,3 +3468,6 @@ img {
 
 .bg-light-blue {
   background-color: #C3DDF4; }
+
+.bg-dark-blue {
+  background-color: #265C83; }
