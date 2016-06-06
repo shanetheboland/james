@@ -26,12 +26,12 @@ gulp.task('minify-css', function(){
 });
 
 gulp.task('minify-img', function(){
-  gulp.src('./img/*')
+  gulp.src('./images/*')
     .pipe(imagemin({
         progressive: true,
         svgoPlugins: [{removeViewBox: false}],
     }))
-    .pipe(gulp.dest('./img/'));
+    .pipe(gulp.dest('./images/'));
 });
 
 // Use csslint without box-sizing or compatible vendor prefixes (these
