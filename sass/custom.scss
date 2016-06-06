@@ -1,5 +1,7 @@
-$brand: #00685f;
 $yellow: #EFCF00;
+$red: #CE3131;
+$darkblue: #265C83;
+$lightblue: #C3DDF4;
 
 img {
   vertical-align: middle;
@@ -24,11 +26,12 @@ img {
 }
 
 .bg-light-blue {
-  background-color: #C3DDF4;
+  background-color: $lightblue;
 }
 
 .bg-dark-blue {
-  background-color: #265C83;
+  background-color: $darkblue;
 }
 
 .yellow { color: $yellow; }
+.red { color: $red; }
