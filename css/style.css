@@ -3450,6 +3450,8 @@ td, th {
   transition: color .3s;
   color: #053A60; }
 
+/* https://coolors.co/app/265c83-c3ddf4-efcf00-ce8531-ce3131 */
+/* https://coolors.co/app/265c83-c3ddf4-EFCF00-ce3131-265c83 */
 img {
   vertical-align: middle; }
 
@@ -3474,6 +3476,3 @@ img {
 
 .yellow {
   color: #EFCF00; }
-
-.red {
-  color: #CE3131; }
